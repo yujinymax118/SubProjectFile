@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{92787EC6-8F39-454A-A67B-772650A12426}|SubProject.vcxproj|C:\\Users\\2409422\\Desktop\\SubProjectFile\\SubProject\\src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{92787EC6-8F39-454A-A67B-772650A12426}|SubProject.vcxproj|solutionrelative:src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92787EC6-8F39-454A-A67B-772650A12426}|SubProject.vcxproj|C:\\Users\\2409422\\Desktop\\SubProjectFile\\SubProject\\src\\lib\\input.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92787EC6-8F39-454A-A67B-772650A12426}|SubProject.vcxproj|solutionrelative:src\\lib\\input.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92787EC6-8F39-454A-A67B-772650A12426}|SubProject.vcxproj|C:\\Users\\2409422\\Desktop\\SubProjectFile\\SubProject\\src\\lib\\input.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92787EC6-8F39-454A-A67B-772650A12426}|SubProject.vcxproj|solutionrelative:src\\lib\\input.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +22,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "input.h",
+              "DocumentMoniker": "C:\\Users\\2409422\\Desktop\\SubProjectFile\\SubProject\\src\\lib\\input.h",
+              "RelativeDocumentMoniker": "src\\lib\\input.h",
+              "ToolTip": "C:\\Users\\2409422\\Desktop\\SubProjectFile\\SubProject\\src\\lib\\input.h",
+              "RelativeToolTip": "src\\lib\\input.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-27T00:59:05.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "input.cpp",
+              "DocumentMoniker": "C:\\Users\\2409422\\Desktop\\SubProjectFile\\SubProject\\src\\lib\\input.cpp",
+              "RelativeDocumentMoniker": "src\\lib\\input.cpp",
+              "ToolTip": "C:\\Users\\2409422\\Desktop\\SubProjectFile\\SubProject\\src\\lib\\input.cpp",
+              "RelativeToolTip": "src\\lib\\input.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-27T00:58:16.721Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +58,7 @@
               "RelativeDocumentMoniker": "src\\main.cpp",
               "ToolTip": "C:\\Users\\2409422\\Desktop\\SubProjectFile\\SubProject\\src\\main.cpp",
               "RelativeToolTip": "src\\main.cpp",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-04-20T02:43:14.444Z",
               "EditorCaption": ""

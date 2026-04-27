@@ -13,10 +13,30 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="ソース ファイル\lib">
+      <UniqueIdentifier>{849d97eb-e9d2-4f9f-8eaa-3bb0ea42aa04}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\src">
+      <UniqueIdentifier>{9f03faa2-ce81-4a85-917f-76f76e9c79c4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\src">
+      <UniqueIdentifier>{18ed3f06-d673-4c21-83ce-7c023b4e1267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\lib">
+      <UniqueIdentifier>{d4e37994-b06c-463d-9c1b-fde93a0ec72c}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\main.cpp">
       <Filter>ソース ファイル</Filter>
     </ClCompile>
+    <ClCompile Include="src\lib\input.cpp">
+      <Filter>ソース ファイル\lib</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\lib\input.h">
+      <Filter>ヘッダー ファイル\lib</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
