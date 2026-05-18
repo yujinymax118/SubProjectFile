@@ -19,11 +19,27 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="src\lib\fade.cpp" />
     <ClCompile Include="src\lib\input.cpp" />
     <ClCompile Include="src\main.cpp" />
+    <ClCompile Include="src\src\collision.cpp" />
+    <ClCompile Include="src\src\Enemy.cpp" />
+    <ClCompile Include="src\src\EnemyManager.cpp" />
+    <ClCompile Include="src\src\player.cpp" />
+    <ClCompile Include="src\src\PlayScene.cpp" />
+    <ClCompile Include="src\src\SceneManager.cpp" />
+    <ClCompile Include="src\src\SoundManager.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="src\lib\fade.h" />
     <ClInclude Include="src\lib\input.h" />
+    <ClInclude Include="src\src\collision.h" />
+    <ClInclude Include="src\src\Enemy.h" />
+    <ClInclude Include="src\src\EnemyManager.h" />
+    <ClInclude Include="src\src\player.h" />
+    <ClInclude Include="src\src\PlayScene.h" />
+    <ClInclude Include="src\src\SceneManager.h" />
+    <ClInclude Include="src\src\SoundManager.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>

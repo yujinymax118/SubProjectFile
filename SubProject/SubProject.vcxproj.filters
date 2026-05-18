@@ -25,6 +25,9 @@
     <Filter Include="ヘッダー ファイル\lib">
       <UniqueIdentifier>{d4e37994-b06c-463d-9c1b-fde93a0ec72c}</UniqueIdentifier>
     </Filter>
+    <Filter Include="ヘッダー ファイル\src\player">
+      <UniqueIdentifier>{94c85d23-bbf5-48aa-af70-70656a275915}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\main.cpp">
@@ -33,10 +36,58 @@
     <ClCompile Include="src\lib\input.cpp">
       <Filter>ソース ファイル\lib</Filter>
     </ClCompile>
+    <ClCompile Include="src\src\SceneManager.cpp">
+      <Filter>ソース ファイル\src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\src\SoundManager.cpp">
+      <Filter>ソース ファイル\src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\lib\fade.cpp">
+      <Filter>ソース ファイル\lib</Filter>
+    </ClCompile>
+    <ClCompile Include="src\src\collision.cpp">
+      <Filter>ソース ファイル\src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\src\Enemy.cpp">
+      <Filter>ソース ファイル\src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\src\EnemyManager.cpp">
+      <Filter>ソース ファイル\src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\src\player.cpp">
+      <Filter>ソース ファイル\src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\src\PlayScene.cpp">
+      <Filter>ソース ファイル\src</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="src\lib\input.h">
       <Filter>ヘッダー ファイル\lib</Filter>
+    </ClInclude>
+    <ClInclude Include="src\src\SceneManager.h">
+      <Filter>ヘッダー ファイル\src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\src\SoundManager.h">
+      <Filter>ヘッダー ファイル\src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\lib\fade.h">
+      <Filter>ヘッダー ファイル\lib</Filter>
+    </ClInclude>
+    <ClInclude Include="src\src\collision.h">
+      <Filter>ヘッダー ファイル\src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\src\Enemy.h">
+      <Filter>ヘッダー ファイル\src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\src\EnemyManager.h">
+      <Filter>ヘッダー ファイル\src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\src\player.h">
+      <Filter>ヘッダー ファイル\src\player</Filter>
+    </ClInclude>
+    <ClInclude Include="src\src\PlayScene.h">
+      <Filter>ヘッダー ファイル\src</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
